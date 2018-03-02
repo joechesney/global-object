@@ -1,0 +1,24 @@
+{
+  "name": "global-object",
+  "version": "1.0.0",
+  "description": "",
+  "main": "global.js",
+  "bin": {
+    "global": "global.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "read-file": "node global.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joechesney/global-object.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joechesney/global-object/issues"
+  },
+  "homepage": "https://github.com/joechesney/global-object#readme"
+}
